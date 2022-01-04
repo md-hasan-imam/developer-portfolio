@@ -10,6 +10,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width{
@@ -39,5 +40,9 @@ section img{
     font-weight: 800;
 }
 
-
+.dream-big{
+    background: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 
