@@ -69,6 +69,10 @@ section img{
 .experience-half h1{
     font-size: 35px;
 }
+
+.experience-half p{
+    padding-bottom: 10px;
+}
 .orange-color{
     color: orange;
 }
