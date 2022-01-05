@@ -4,13 +4,16 @@ body{
 }
 h1{
     font-size: 50px;
+    line-height: 40px;
 }
+
 span{
     color: orange;
 }
+
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 130px;
 }
 
 .half-width{
@@ -23,6 +26,9 @@ span{
     background-repeat: no-repeat ;
 }
 
+.top-banner .half-width p{
+    margin-bottom: 30px;
+}
 section img{
     width: 80%;
 }
@@ -46,6 +52,14 @@ section img{
     background-position: right;
 }
 
+.dream-big .text{
+    margin-top: 45px;
+}
+
+.dream-big .half-width p{
+    margin-bottom: 30px;
+    padding-right:40px ;
+}
 .experience{
     background: url(images/exp-bg.png);
     background-repeat: no-repeat;
